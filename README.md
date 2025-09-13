@@ -23,8 +23,8 @@ Key Finding: Lowering the threshold to 0.35 identifies 17% more churners (68 add
 
 ## 🌐 Deployment
 The application is deployed on Streamlit Cloud and can be accessed at:
-- **Live App:** https://atharvadhumal-tfidf-logreg-sentiment-analysis-66dulerouq.streamlit.app/
-- **Status:** 🟢 Active
+- **Live App:** to be added.
+- **Status:**
 
 #### How to Use:
 1. Enter customer details
@@ -33,15 +33,15 @@ The application is deployed on Streamlit Cloud and can be accessed at:
 
 ## 🖼️ Screenshots
 ### Web Application Interface
-![App Interface](screenshots/project_GUI.png)
-*Clean and intuitive user interface for sentiment analysis*
+<!-- ![App Interface](screenshots/project_GUI.png) -->
+<!-- *Clean and intuitive user interface for sentiment analysis* -->
 
 ### Prediction Examples
-![Positive Review](screenshots/positive.png)
-*Positive Movie Review*
+<!-- ![Positive Review](screenshots/positive.png) -->
+<!-- *Positive Movie Review* -->
 
-![Negative Review](screenshots/negative.png)
-*Negative Movie Review*
+<!-- ![Negative Review](screenshots/negative.png) -->
+<!-- *Negative Movie Review* -->
 
 ## ⚙️ Methodology
 ### Data Preprocessing Pipeline
