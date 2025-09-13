@@ -2,3 +2,4 @@
 Churn_Modelling.csv
 notes.txt
 __pycache__/
+model.pkl

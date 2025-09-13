@@ -1,10 +1,13 @@
 import streamlit as st
 from utils import model_input, predict_churn
 # import pandas as pd
-import pickle
+# import pickle
+import joblib
 
-with open("model.pkl", "rb") as f:
-    model_pipeline = pickle.load(f)
+# with open("model.pkl", "rb") as f:
+#     model_pipeline = pickle.load(f)
+
+model_pipeline = joblib.load('model.joblib')
 
 # predict_churn = funcs["predict_churn"]
 # model_input = funcs["model_input"]
