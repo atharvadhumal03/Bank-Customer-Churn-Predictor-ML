@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction Machine Learning Model
+# Bank Churn Prediction Machine Learning Model
 
 ## 📊 Project Overview
 ### Introduction
