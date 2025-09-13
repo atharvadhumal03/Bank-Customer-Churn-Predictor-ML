@@ -6,4 +6,4 @@ imblearn
 matplotlib
 seaborn
 streamlit
-dill
+pickle
