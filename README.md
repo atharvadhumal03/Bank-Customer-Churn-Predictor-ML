@@ -40,7 +40,7 @@ The application is deployed on Streamlit Cloud and can be accessed at:
 ![Churn](screenshots/Churn_Prediction.png)
 *Churn Prediction*
 
-![No Churn](screenshots/NotChurn_Prediction.png)
+![No Churn](screenshots/NoChurn_Prediction.png)
 *No Churn Prediction*
 
 ## ⚙️ Methodology
