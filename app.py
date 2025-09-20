@@ -113,5 +113,3 @@ if st.button("Predict Churn"):
         st.success(f"Prediction: Given customer will not churn!")
     else:
         st.info(f"Prediction: Given customer will churn!")
-
-    

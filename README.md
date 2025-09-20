@@ -23,8 +23,8 @@ Key Finding: Lowering the threshold to 0.35 identifies 17% more churners (68 add
 
 ## 🌐 Deployment
 The application is deployed on Streamlit Cloud and can be accessed at:
-- **Live App:** to be added.
-- **Status:**
+- **Live App:** https://bank-customer-churn-predictor-ml-7hoamatczsrgskfmoe7rjj.streamlit.app/
+- **Status:** 🟢 Active
 
 #### How to Use:
 1. Enter customer details
@@ -33,15 +33,15 @@ The application is deployed on Streamlit Cloud and can be accessed at:
 
 ## 🖼️ Screenshots
 ### Web Application Interface
-<!-- ![App Interface](screenshots/project_GUI.png) -->
-<!-- *Clean and intuitive user interface for sentiment analysis* -->
+![App Interface](screenshots/Project_GUI.png)
+*Clean and intuitive user interface for churn analysis*
 
 ### Prediction Examples
-<!-- ![Positive Review](screenshots/positive.png) -->
-<!-- *Positive Movie Review* -->
+![Churn](screenshots/Churn_Prediction.png)
+*Churn Prediction*
 
-<!-- ![Negative Review](screenshots/negative.png) -->
-<!-- *Negative Movie Review* -->
+![No Churn](screenshots/NotChurn_Prediction.png)
+*No Churn Prediction*
 
 ## ⚙️ Methodology
 ### Data Preprocessing Pipeline
