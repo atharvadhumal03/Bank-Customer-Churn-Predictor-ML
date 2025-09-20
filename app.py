@@ -23,7 +23,7 @@ st.markdown(
     <div style='text-align: center; color: black; font-size: 13px;'>
         © Atharva Dhumal | A bank customer churn predictor model.
     </div>
-    <hr style="margin-top: 20px;"/>
+    <hr style="margin-top: 10px;"/>
     """,
     unsafe_allow_html=True
 )
